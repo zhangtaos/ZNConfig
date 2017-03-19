@@ -1,1 +1,1 @@
-kZNConfigStartStr{hotSearch:[东方在线]}kZNConfigEndStr
+kZNConfigStartStr{"hotSearch":["东方在线"]}kZNConfigEndStr
