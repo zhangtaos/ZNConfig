@@ -1,1 +1,1 @@
-kZNConfigStartStr{"hotSearch":[]}kZNConfigEndStr
+kZNConfigStartStr{"hotSearch":["lalala"]}kZNConfigEndStr
