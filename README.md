@@ -1,1 +1,1 @@
-kZNConfigStartStr{"hotSearch":["lalala"]}kZNConfigEndStr
+kZNConfigStartStr{"hotSearch":[""],"webTagSort":[],"fourWebName":[]}kZNConfigEndStr
